@@ -1,5 +1,5 @@
-Hello world! 👋 I'm Gairik Shrama 
-I'm a MERN developer and my speciallity is React Js.
+Hello world! 👋 I'm Gairik Shrama,
+I'm a ECE undergrad and also I'm MERN developer and my speciallity is React Js.
 
 <!--
 **GairikSharma/GairikSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
