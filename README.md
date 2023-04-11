@@ -36,6 +36,7 @@
   <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
 </div>
