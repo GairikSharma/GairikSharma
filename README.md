@@ -1,6 +1,6 @@
 ### Hi there 👋 Myself Gairik Sharma
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="480" height="480/>
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/4H3Ii5eLChYul9p7NL" width="100%" height="100%"             style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 </div>
 
 <div id="badges" align="center">
