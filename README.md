@@ -27,7 +27,13 @@
 
 <div>
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" title="C++" alt="Cpp" width="40" height="40"/>&nbsp;
- 
+  <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor"/>&nbsp;
+ <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"/>&nbsp;
+  <img src="[https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" title="C++" alt="Cpp" width="40" height="40](https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor)"/>&nbsp;
+  <img src="[https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" title="C++" alt="Cpp" width="40" height="40](https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor)"/>&nbsp;
+  <img src="[https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" title="C++" alt="Cpp" width="40" height="40](https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor)"/>&nbsp;
+  <img src="[https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" title="C++" alt="Cpp" width="40" height="40](https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor)"/>&nbsp;
+  <img src="[https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" title="C++" alt="Cpp" width="40" height="40](https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor)"/>&nbsp;
 </div>
 
 
