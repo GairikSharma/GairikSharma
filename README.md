@@ -49,7 +49,7 @@
 
 ### :fire: My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GairikSharma&show_icons=true&locale=en&layout=compact" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GairikSharma&show_icons=true&locale=en" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GairikSharma&theme=dark)](https://git.io/streak-stats)
 
