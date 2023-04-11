@@ -1,6 +1,15 @@
 ### Hi there 👋 Myself Gairik Sharma
+- :telescope: I’m a MERN developer, my speciality is React.Js
+- 🔭 I’m currently working on a Fullstack(MERN) Task manager
+- 🌱 I’m currently learning AI
+- 👯 I’m looking to collaborate on Web based projects
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about Web
+<!-- - 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -16,10 +25,10 @@
 
 
 
-
+<!-- 
 - :telescope: I’m a MERN developer, my speciality is React.Js
 
-- :seedling: Exploring AI
+- :seedling: Exploring AI -->
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gairik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gairik-sharma-1633b4223/)
 
@@ -57,16 +66,6 @@
 
 
 
-**GairikSharma/GairikSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **GairikSharma/GairikSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some ideas to get you started: -->
