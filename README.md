@@ -29,15 +29,15 @@
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" title="C++" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/python-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
 </div>
 
 
