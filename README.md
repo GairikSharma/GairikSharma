@@ -49,17 +49,14 @@
 
 ### :fire: My Stats :
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GairikSharma&show_icons=true&locale=en&layout=compact" /></p>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GairikSharma&theme=dark)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GairikSharma&layout=compact&theme=dark)
 
 
 
-
-<!--
-**Slayer-Saran-2002/Slayer-Saran-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-<!--
 **GairikSharma/GairikSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
