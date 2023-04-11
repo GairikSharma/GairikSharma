@@ -12,6 +12,8 @@
   </a>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GairikSharma&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
 
 
 - :telescope: I’m a MERN developer, my speciality is React.Js
