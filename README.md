@@ -44,10 +44,9 @@
 
 ### :fire: My Stats :
 
-[GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GairikSharma&theme=light)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GairikSharma&theme=light)](https://git.io/streak-stats)]
 
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GairikSharma&layout=compact&theme=light)
+[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GairikSharma&layout=compact&theme=light)]
 
 
 
