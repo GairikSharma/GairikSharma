@@ -1,6 +1,6 @@
 ### Hi there 👋 Myself Gairik Sharma
 <div id="header" align="center">
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/4H3Ii5eLChYul9p7NL" width="100%" height="100%"             style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -35,9 +35,11 @@
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
 </div>
 
