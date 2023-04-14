@@ -30,7 +30,7 @@
 
 - :seedling: Exploring AI -->
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gairik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gairik-sharma-1633b4223/)
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=GairikSharma&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 
 
