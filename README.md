@@ -1,13 +1,13 @@
 ### Hi there 👋 Myself Gairik Sharma
-- :telescope: I’m a MERN developer, my speciality is React.Js
+- 👋 I’m a MERN developer, my speciality is React.Js
 - 🔭 I’m currently working on a Fullstack(MERN) Task manager
-- 🌱 I’m currently learning AI
-- 👯 I’m looking to collaborate on Web based projects
+- 🌱 I’m currently learning Neural Networks
+- 👯 I’m looking to collaborate on MERN projects
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web
-<!-- - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 📫 How to reach me: gairiksharma2000@gmail.com
+- 😄 Pronouns: He/Him
+<!-- - ⚡ Fun fact: ... -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
