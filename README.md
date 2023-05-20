@@ -19,6 +19,9 @@
   <a href="https://twitter.com/sharma_gairik">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://auth.geeksforgeeks.org/user/gairik19">
+    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png" height="24px"           width=""/80px>
+  </a>
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GairikSharma" /></a> </p>
