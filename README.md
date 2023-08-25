@@ -40,7 +40,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="left">
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" title="C++" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
