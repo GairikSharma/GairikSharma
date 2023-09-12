@@ -8,6 +8,10 @@
 - 📫 How to reach me: gairiksharma2000@gmail.com
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
+## Run the command in terminal of your local machine to see details about me
+  ``` bash
+  npx gairik
+  ```
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
