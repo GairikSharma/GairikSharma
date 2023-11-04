@@ -1,4 +1,7 @@
 ### <h1 style="font-size: 44px">Hi there 👋 Myself Gairik Sharma</h1>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250"/>
+
+
 - 👋 I’m a MERN developer, my speciality is React.Js
 - 🔭 I’m currently working on a Fullstack(MERN) Task manager
 - 🌱 I’m currently learning Neural Networks
