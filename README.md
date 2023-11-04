@@ -7,14 +7,13 @@
 - 💬 Ask me about Web
 - 📫 How to reach me: gairiksharma2000@gmail.com
 - 😄 Pronouns: He/Him
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=GairikSharma&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <!-- - ⚡ Fun fact: ... -->
 ## Run the command in terminal of your local machine to see details about me
   ``` bash
   npx gairik
   ```
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
-</div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/gairik-sharma-1633b4223/">
@@ -23,12 +22,15 @@
   <a href="https://twitter.com/sharma_gairik">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fgairik19&logo=leetcode&logoColor=yellow" />
+  
+
   <a href="https://auth.geeksforgeeks.org/user/gairik19">
-    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png" height="24px"           width=""/80px>
+    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210419113249/gfg-new-logo-min.png" height="24px" width=""/80px>
   </a>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GairikSharma" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GairikSharma" /></a> </p>
 
 
 
@@ -37,39 +39,49 @@
 
 - :seedling: Exploring AI -->
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=GairikSharma&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
 
 
 
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div align="left">
-  <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" title="C++" alt="Cpp" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" title="C++" alt="Cpp" width="40" height="40"/>&nbsp;
+    <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+    <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+    <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+    <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+    <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+    <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+    <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+    <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;
+    <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+    <img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+    <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
+    <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+  </div>
 </div>
+
 
 
 ### :fire: My Stats :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GairikSharma&show_icons=true&locale=en&theme=light" /></p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=GairikSharma&show_icons=true&locale=en&theme=light"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GairikSharma&layout=compact&theme=light"></td>
+    </tr>
+  </table>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GairikSharma&theme=light)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GairikSharma&theme=light)](https://git.io/streak-stats)
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GairikSharma&layout=compact&theme=light)
+
 
 
 
