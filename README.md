@@ -1,7 +1,6 @@
 ### <h1 style="font-size: 44px">Hi there 👋 Myself Gairik Sharma</h1>
 <img align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300"/>
 
-
 - 👋 I’m a MERN developer, my speciality is React.Js
 - 🔭 I’m currently working on a Fullstack(MERN) Task manager
 - 🌱 I’m currently learning Neural Networks
