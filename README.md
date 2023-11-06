@@ -57,15 +57,20 @@
     <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
     <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
     <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="40" height="40"/>&nbsp;
     <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
     <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
     <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="firebase" width="40" height="40"/>&nbsp;
     <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
     <img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
     <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
     <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40"/>&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" width="40" height="40"/>&nbsp;
+    
   </div>
 </div>
 
