@@ -80,12 +80,12 @@
 <div align="center">
   <table>
     <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=GairikSharma&show_icons=true&locale=en&theme=light"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GairikSharma&layout=compact&theme=light"></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=GairikSharma&show_icons=true&locale=en&theme=dark"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GairikSharma&layout=compact&theme=dark"></td>
     </tr>
   </table>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GairikSharma&theme=light)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GairikSharma&theme=dark)](https://git.io/streak-stats)
 </div>
 
 
