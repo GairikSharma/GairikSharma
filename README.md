@@ -69,6 +69,7 @@
     <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>&nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png?s=280&v=4" width="80" height="40"/>&nbsp;
     
   </div>
 </div>
